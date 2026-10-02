@@ -1,0 +1,29 @@
+[
+  {
+    "id": "7851f658-5ef1-473d-9fd3-9cf705ea4e27",
+    "name": "Bhargav",
+    "email": "bhargav123@gmail.com",
+    "company": "",
+    "passwordHash": "scrypt$1GwPBoopf4urRqDWLufUKQ==$2oQtcckv8F8kHR1ulbdazP43U7kogfZUzSxaWquw0pDJ+4S+cKwffP8/aX0pm2ZW0BkeRvktpThwLbvCfKIVAQ==",
+    "createdAt": "2026-09-29T07:29:13.430Z",
+    "lastLoginAt": "2026-09-29T10:01:11.054Z"
+  },
+  {
+    "id": "33652d2e-c99d-41bc-915d-b071fc412238",
+    "name": "dhruv prajapati",
+    "email": "dhruv123@gmail.com",
+    "company": "",
+    "passwordHash": "scrypt$a6BzrXQ6InMHkzK36H5CSQ==$15Fuj22LPyjkUgy699AlA4qCtprojmQVPuvLASibFgEJnrYKTQPFd3odz3UQCHoScGCAc1g8Tb3jR0jwndkNVg==",
+    "createdAt": "2026-09-29T09:36:33.038Z",
+    "lastLoginAt": "2026-09-29T09:36:33.039Z"
+  },
+  {
+    "id": "21770c7f-cfe4-4bec-a9ef-e784cc6929f3",
+    "name": "harsh patel",
+    "email": "harshpatel213@gmail.com",
+    "company": "spark",
+    "passwordHash": "scrypt$TTwTMdzmM9yS6Ap/avaPqA==$Ggch6mOVX/XKG9f2LoyNBjrt5YwqFAuFKiRZwSiSBud0tPfMiIhGGEFjmik2SGv3Mg9iHqxCtrm3lVxsuH+Ewg==",
+    "createdAt": "2026-09-29T10:00:55.597Z",
+    "lastLoginAt": "2026-09-29T10:00:55.599Z"
+  }
+]
